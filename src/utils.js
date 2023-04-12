@@ -30,8 +30,8 @@ const jalaaliConfigs = {
   timeClose: 'بستن',
 };
 const gregorianConfigs = {
-  dayNames: ['Domingo', 'Segunda', 'Terça', 'Quarta', 'Quinta', 'Sexta', 'Sá'],
-  dayNamesShort: ['Do', 'Se', 'Te', 'Qu', 'Qu', 'Se', 'Sá'],
+  dayNames: ['Domingo', 'Segunda', 'Terça', 'Quarta', 'Quinta', 'Sexta', 'Sábado'],
+  dayNamesShort: ['Dom', 'Seg', 'Ter', 'Qua', 'Qui', 'Sex', 'Sáb'],
   monthNames: [
     'Janeiro',
     'Fevereiro',
